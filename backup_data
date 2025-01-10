@@ -1,0 +1,17 @@
+[index] [word] filecount file/s : file_name word_count
+
+--------------------------------------------------
+[0] [are] 1 files:	1.txt 2	
+[6] [good] 1 files:	3.txt 2	
+[7] [hi] 1 files:	1.txt 2	
+[7] [hello] 2 files:	1.txt 2	2.txt 2	
+[7] [how] 1 files:	1.txt 2	
+[7] [hey] 1 files:	2.txt 2	
+[13] [north] 1 files:	3.txt 2	
+[18] [school] 1 files:	2.txt 2	
+[18] [smile] 1 files:	3.txt 2	
+[18] [sun] 1 files:	3.txt 2	
+[22] [wow] 2 files:	2.txt 2	3.txt 2	
+[24] [you] 1 files:	1.txt 2	
+
+--------------------------------------------------
